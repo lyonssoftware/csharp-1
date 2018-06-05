@@ -33,6 +33,7 @@ class Function
   
   void Multiply(int x, int y)
   {
+    // print the result
     Console.System.print(x*y)
   }
   
