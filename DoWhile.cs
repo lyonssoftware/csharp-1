@@ -14,7 +14,7 @@ public class DoWhile
       // while the x variable is less than 10 
      while(x < 10)
      {
-        
+        // do this while x is less than 10 
      }
    }// end of the program 
 }
