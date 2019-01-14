@@ -23,6 +23,7 @@ Class Multiplication
         int s = 11;
         // into
         int t = 68;
+        // int 
         int f =  2;
         int g = s;
         
