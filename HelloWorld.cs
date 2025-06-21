@@ -3,6 +3,7 @@ Using System;
 public class HelloWord
 {
    // main function
+   // hi
    public static void Main()
    {
       // print the statement "Hello, World!"
