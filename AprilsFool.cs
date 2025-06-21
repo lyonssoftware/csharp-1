@@ -3,6 +3,7 @@ class AprilFool
   public static void main()
   {
     // knock knock 
+  // hi
     // who's there
     // april 
     // april who?
